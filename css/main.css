@@ -1,3 +1,7 @@
+html {
+    background-color: #d4e9bcfb;
+    margin: 0.5rem; auto;
+  }
 body {
  font-size: 18px; 
  line-height: 1.5;  
@@ -8,9 +12,10 @@ margin: 1.5rem; auto;
 max-width: 760px;
 }
 
+
 header, footer {
-    background-color: bisque;
-    color: black;
+    background-color: rgb(26, 10, 248);
+    color: rgb(247, 244, 244);
     text-align: center;
     padding: 1.5rem;
 
@@ -23,11 +28,14 @@ p img {
 }
 
 img {
-width: 200px;
-float: right;
+width: 150px;
+float: rit;
     margin: 10px;
-    border: 2px solid green;
+    border: 5px solid rgb(26, 10, 248);
+    display: block;
+  margin: 0 auto;
+  pa
 }
 footer {
-    background-color: bisque;
+    background-color: rgb(26, 10, 248);
 }

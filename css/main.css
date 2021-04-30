@@ -22,6 +22,12 @@ p img {
     border: 2px solid green;
 }
 
+img {
+width: 200px;
+float: right;
+    margin: 10px;
+    border: 2px solid green;
+}
 footer {
     background-color: bisque;
 }
